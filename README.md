@@ -9,3 +9,5 @@ Colab Introduction is based off of this: https://www.youtube.com/watch?v=oCngVVB
 Advanced Colab is based off of this: https://www.youtube.com/watch?v=qxBWBeDnLt8&t=2256s
 
 ## Assignment 2
+ClaudeDev
+Youtube link for AI Pair Programmer Video: https://www.youtube.com/watch?v=QMqXJ9X_bco
