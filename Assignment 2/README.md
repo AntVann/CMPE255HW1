@@ -1,3 +1,4 @@
-## Link for AI PAIR
+## Assignment 2
+ClaudeDev
 
-https://youtu.be/oaZCy7Z05gk
+Youtube link for AI Pair Programmer Video: https://www.youtube.com/watch?v=oaZCy7Z05gk
