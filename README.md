@@ -8,6 +8,14 @@ Colab Introduction is based off of this: https://www.youtube.com/watch?v=oCngVVB
 
 Advanced Colab is based off of this: https://www.youtube.com/watch?v=qxBWBeDnLt8&t=2256s
 
+Files are in Assignment 1 directory
+
+### Shared link
+
+Colab Intro: https://colab.research.google.com/drive/1RdSvEpSD1mQqSmmyCxOBP--kskyH5_7p?usp=sharing
+
+Advanced: https://colab.research.google.com/drive/1_4SnsO4Bx6OiQueFnAeL1dmKiXOth62Y?usp=sharing
+
 ## Assignment 2
 ClaudeDev
 
