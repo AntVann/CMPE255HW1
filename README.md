@@ -12,3 +12,8 @@ Advanced Colab is based off of this: https://www.youtube.com/watch?v=qxBWBeDnLt8
 ClaudeDev
 
 Youtube link for AI Pair Programmer Video: https://www.youtube.com/watch?v=oaZCy7Z05gk
+
+## Assignment 3
+Akkio
+
+Youtube link for Akkio: https://youtu.be/wZjl3L-XnkE 
